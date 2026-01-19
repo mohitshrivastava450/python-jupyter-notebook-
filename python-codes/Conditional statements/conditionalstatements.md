@@ -12,7 +12,7 @@ if x > 5:
 - Runs the block only if the condition is True.
 
 
-## 🔹 Basic `if-else` Statement
+ 🔹 Basic `if-else` Statement
 
 x = 3
 if x > 5:
@@ -22,7 +22,7 @@ else:
 - The else block runs when the if condition is False.
 
 
-## 🔹 if-elif-else Statement
+ 🔹 if-elif-else Statement
 x = 5
 if x > 5:
     print("x is greater than 5")
