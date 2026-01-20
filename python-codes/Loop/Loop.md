@@ -29,6 +29,7 @@ while count < 5:
     count += 1
 
 ⏹ Loop Control Statements
+
 break
 - Terminates the loop prematurely.
 - Example:
