@@ -73,11 +73,7 @@ import copy
 deep = copy.deepcopy([[1]])  # use for nested structures
 ```
 
-## Useful patterns
 
-- Unpacking: `a, b, *rest = items`
-- Iterate with index: `for i, v in enumerate(my_list):`
-- Unique items: `list(dict.fromkeys(my_list))` or `set(my_list)` (order differs)
 
 
 ## Further reading
